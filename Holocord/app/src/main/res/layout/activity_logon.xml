@@ -49,12 +49,11 @@
 
     <Button
         android:id="@+id/experimentalButton"
-        style="@android:style/Widget.Holo.Light.Button"
+        style="@android:style/Widget.Holo.Button"
         android:layout_width="164dp"
         android:layout_height="48dp"
         android:text="@string/experimental_logon"
         android:textAppearance="@style/TextAppearance.AppCompat.Small"
-        android:textColor="#E9E9E9"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.081"
@@ -64,12 +63,11 @@
 
     <Button
         android:id="@+id/signInButton"
-        style="@android:style/Widget.Holo.Light.Button"
+        style="@android:style/Widget.Holo.Button"
         android:layout_width="164dp"
         android:layout_height="48dp"
         android:text="@string/sign_in"
         android:textAppearance="@style/TextAppearance.AppCompat.Small"
-        android:textColor="#E9D3D3"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.923"
