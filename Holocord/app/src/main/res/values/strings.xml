@@ -1,0 +1,11 @@
+<resources>
+    <!-- Generic strings-->
+    <string name="app_name" translatable="false">Holocord</string>
+    <string name="sign_in">Sign in!</string>
+    <string name="dsc_token">Discord token</string>
+
+    <!-- Logon strings -->
+    <string name="welcome_logon">Welcome to Holocord!</string>
+    <string name="info_logon">You can sign in using a token, or try the experimental email logon system.</string>
+    <string name="experimental_logon">Experimental system</string>
+</resources>
